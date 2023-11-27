@@ -5,6 +5,7 @@
   - [Custom cpp iterator](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
   - [CMU: cpp basics bootcamp](https://github.com/cmu-db/15445-bootcamp)
   - [MIPT: Ilya Mesherin C++ 1 year notes(ru)](https://github.com/NJrslv/Algorithms-practise/blob/main/C%2B%2B/2021_MIPT_Mesherin.pdf)
+  - [Cpp-best-practices: Tooling](https://github.com/cpp-best-practices/cppbestpractices/blob/master/02-Use_the_Tools_Available.md)
 ## concurrency
   - [Lipovsky: awesome-concurrency](https://gitlab.com/Lipovsky/awesome-concurrency)
   - [Erik Rigtorp: correctly implementing a spinlock in C++](https://rigtorp.se/spinlock/)
