@@ -13,6 +13,8 @@
   - [Boost: Intrusive and non-intrusive containers](https://www.boost.org/doc/libs/1_55_0/doc/html/intrusive/intrusive_vs_nontrusive.html)
   - [LWN: A futex overview](https://lwn.net/Articles/360699/)
   - [Lewissbaker: Stackless coroutine theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
+## general
+  - [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 ## go
   - [Go-wiki](https://github.com/golang/go/wiki/Courses)
   - [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
