@@ -7,6 +7,9 @@
   - [MIPT: Ilya Mesherin C++ 1 year notes(ru)](https://github.com/NJrslv/Algorithms-practise/blob/main/C%2B%2B/2021_MIPT_Mesherin.pdf)
   - [Cpp-best-practices: Tooling](https://github.com/cpp-best-practices/cppbestpractices/blob/master/02-Use_the_Tools_Available.md)
   - [C-exceptions-under-hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
+  - [Clang-code-view: cppinsights](https://cppinsights.io)
+  - [Cpp-draft](http://eel.is/c++draft/)
+  - [Godbolt](https://godbolt.org)
 ## concurrency
   - [Lipovsky: awesome-concurrency](https://gitlab.com/Lipovsky/awesome-concurrency)
   - [Erik Rigtorp: correctly implementing a spinlock in C++](https://rigtorp.se/spinlock/)
