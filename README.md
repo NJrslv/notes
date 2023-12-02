@@ -16,6 +16,7 @@
   - [Lewissbaker: Stackless coroutine theory](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
 ## general
   - [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+  - [Leanpub: bookstore](https://leanpub.com/bookstore?type=book)
 ## go
   - [Go-wiki](https://github.com/golang/go/wiki/Courses)
   - [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
