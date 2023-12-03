@@ -8,6 +8,7 @@
   - [Cpp-best-practices: Tooling](https://github.com/cpp-best-practices/cppbestpractices/blob/master/02-Use_the_Tools_Available.md)
   - [C-exceptions-under-hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
   - [Clang-code-view: cppinsights](https://cppinsights.io)
+  - [Cpp-best-practices](https://github.com/cpp-best-practices/cppbestpractices)
   - [Cpp-draft](http://eel.is/c++draft/)
   - [Godbolt](https://godbolt.org)
 ## concurrency
