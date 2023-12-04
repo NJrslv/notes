@@ -24,6 +24,7 @@
 ## go
   - [Go-wiki](https://github.com/golang/go/wiki/Courses)
   - [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
+  - [Oreilly: concurrency-in-go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/ch04.html#callout_concurrency_patterns_in_go_CO3-1)
 ## distributed systems
   - [Lipovsky: awesome-distsys](https://gitlab.com/Lipovsky/awesome-distsys)
   - [Reddit: Learning Distributed systems with golang](https://www.reddit.com/r/golang/comments/bahm15/learning_distributed_systems_with_golang/)
