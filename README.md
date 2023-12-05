@@ -1,4 +1,12 @@
 # notes
+### Table of contents
+- [cpp](#cpp)
+- [concurrency](#concurrency)
+- [general](#general)
+- [go](#go)
+- [distributed systems](#distributed-systems)
+- [databases](#databases)
+- [linux](#linux)
 ## cpp
   - [Erik Rigtorp: modern cpp collection](https://github.com/rigtorp/awesome-modern-cpp)
   - [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
@@ -32,3 +40,5 @@
   - [MIT: Distributed Systems spring 2023](https://pdos.csail.mit.edu/6.824/schedule.html)
 ## databases
   - [NJrlsv: Database Systems CMU Summary](https://github.com/NJrslv/Distributed-and-Database-Systems/tree/main/CMU-Summary)
+## linux
+- [Minimum tutorial of ext4](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
