@@ -39,6 +39,7 @@
   - [Book: Designing-Data-Intensive-Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?redirectFromSmile=1)
   - [MIT: Distributed Systems spring 2023](https://pdos.csail.mit.edu/6.824/schedule.html)
 ## databases
+  - [UPDATE postgres](https://patrick.engineering/posts/postgres-internals/)
   - [NJrlsv: Database Systems CMU Summary](https://github.com/NJrslv/Distributed-and-Database-Systems/tree/main/CMU-Summary)
 ## linux
 - [Minimum tutorial of ext4](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
