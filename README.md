@@ -20,6 +20,7 @@
   - [Cpp-draft](http://eel.is/c++draft/)
   - [Godbolt](https://godbolt.org)
 ## concurrency
+  - [Lamport: A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
   - [Lipovsky: awesome-concurrency](https://gitlab.com/Lipovsky/awesome-concurrency)
   - [Erik Rigtorp: correctly implementing a spinlock in C++](https://rigtorp.se/spinlock/)
   - [ELI: basic of futexes](https://eli.thegreenplace.net/2018/basics-of-futexes/)
