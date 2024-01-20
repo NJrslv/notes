@@ -31,6 +31,7 @@
   - [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
   - [Leanpub: bookstore](https://leanpub.com/bookstore?type=book)
   - [The Hacker News Top books of 2023](https://hnreads.com/post/top40_2023/)
+  - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 ## go
   - [Go-wiki](https://github.com/golang/go/wiki/Courses)
   - [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
