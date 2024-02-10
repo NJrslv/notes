@@ -33,6 +33,7 @@
   - [The Hacker News Top books of 2023](https://hnreads.com/post/top40_2023/)
   - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
   - [Oreilly: gRPC Under the Hood](https://www.oreilly.com/library/view/grpc-up-and/9781492058328/ch04.html#simple_rpc_message_flow)
+  - [Proofs_by_Topic](https://proofwiki.org/wiki/Category:Proofs_by_Topic)
 ## go
   - [Go-wiki](https://github.com/golang/go/wiki/Courses)
   - [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
@@ -42,6 +43,7 @@
   - [Reddit: Learning Distributed systems with golang](https://www.reddit.com/r/golang/comments/bahm15/learning_distributed_systems_with_golang/)
   - [Book: Designing-Data-Intensive-Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?redirectFromSmile=1)
   - [MIT: Distributed Systems spring 2023](https://pdos.csail.mit.edu/6.824/schedule.html)
+  - [Distributed-systems-reading-list](https://ferd.ca/a-distributed-systems-reading-list.html)
 ## databases
   - [UPDATE postgres](https://patrick.engineering/posts/postgres-internals/)
   - [NJrlsv: Database Systems CMU Summary](https://github.com/NJrslv/Distributed-and-Database-Systems/tree/main/CMU-Summary)
