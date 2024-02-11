@@ -46,7 +46,7 @@
   - [Distributed-systems-reading-list](https://ferd.ca/a-distributed-systems-reading-list.html)
 ## databases
   - [UPDATE postgres](https://patrick.engineering/posts/postgres-internals/)
-  - [NJrlsv: Database Systems CMU Summary](https://github.com/NJrslv/Distributed-and-Database-Systems/tree/main/CMU-Summary)
+  - [NJrlsv: Database Systems CMU Summary](https://github.com/NJrslv/bustub/tree/master/njrslv/CMU-Summary)
 ## linux
 - [Minimum tutorial of ext4](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
 - [Epoll: The API that powers the modern internet](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
