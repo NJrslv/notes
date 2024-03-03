@@ -7,6 +7,7 @@
 - [distributed systems](#distributed-systems)
 - [databases](#databases)
 - [linux](#linux)
+- [networking](#networking)
 ## cpp
   - [Erik Rigtorp: modern cpp collection](https://github.com/rigtorp/awesome-modern-cpp)
   - [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
@@ -34,6 +35,7 @@
   - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
   - [Oreilly: gRPC Under the Hood](https://www.oreilly.com/library/view/grpc-up-and/9781492058328/ch04.html#simple_rpc_message_flow)
   - [Proofs_by_Topic](https://proofwiki.org/wiki/Category:Proofs_by_Topic)
+  - [What makes airplanes fly](https://ciechanow.ski/airfoil/)
 ## go
   - [Go-wiki](https://github.com/golang/go/wiki/Courses)
   - [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
