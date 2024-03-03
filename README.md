@@ -50,3 +50,6 @@
 ## linux
 - [Minimum tutorial of ext4](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
 - [Epoll: The API that powers the modern internet](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
+## networking
+- [Richard Steenbergen: A Practical Guide to (Correctly) Troubleshooting with Traceroute](https://archive.nanog.org/meetings/nanog47/presentations/Sunday/RAS_Traceroute_N47_Sun.pdf)
+
