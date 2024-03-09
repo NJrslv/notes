@@ -54,4 +54,5 @@
 - [Epoll: The API that powers the modern internet](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 ## networking
 - [Richard Steenbergen: A Practical Guide to (Correctly) Troubleshooting with Traceroute](https://archive.nanog.org/meetings/nanog47/presentations/Sunday/RAS_Traceroute_N47_Sun.pdf)
+- [Self-healing Datacentr: Flow label](https://habr.com/en/companies/yandex/articles/524184/)
 
