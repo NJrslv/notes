@@ -37,6 +37,7 @@
   - [Proofs_by_Topic](https://proofwiki.org/wiki/Category:Proofs_by_Topic)
   - [What makes airplanes fly](https://ciechanow.ski/airfoil/)
   - [Latency Numbers](https://samwho.dev/numbers/?fo)
+  - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 ## go
   - [Go-wiki](https://github.com/golang/go/wiki/Courses)
   - [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
